@@ -4,9 +4,3 @@
 *** 原材料看涨
 *** PMI连续扩张
 *** 加库存
-****
-#+BEGIN_SRC d
-  import std.stdio
-  void main() {
-**** }
- #+END_SRC
