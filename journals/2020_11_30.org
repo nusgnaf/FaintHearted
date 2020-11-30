@@ -1,3 +1,15 @@
 #+TITLE: Nov 30th, 2020
 
-** 
+** LATER have a good idea
+:PROPERTIES:
+:later: 1606725027107
+:END:
+** TODO Stata course in 6 days!
+:PROPERTIES:
+:todo: 1606725041216
+:END:
+** DOING dumping out more random thoughts!
+:PROPERTIES:
+:doing: 1606725059031
+:END:
+**
